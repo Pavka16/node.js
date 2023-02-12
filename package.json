@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavka16/node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavka16/node.js/issues"
+  },
+  "homepage": "https://github.com/Pavka16/node.js#readme",
+  "dependencies": {
+    "@pavka16/platforms-browser-and-node": "^1.0.0"
+  }
+}
